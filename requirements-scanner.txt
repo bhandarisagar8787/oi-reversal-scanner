@@ -1,0 +1,35 @@
+# Core
+pandas>=2.2.0
+numpy>=1.26.0
+plotly
+# TradingView
+tvdatafeed
+
+
+sqlalchemy
+psycopg[binary]
+
+supabase
+
+# HTTP
+requests
+httpx
+
+python-dotenv
+
+# Dashboard/API (Future)
+
+
+# Websocket
+websocket-client
+
+# Utilities
+python-dateutil
+pytz
+
+git+https://github.com/rongardF/tvdatafeed.git
+
+
+fastapi
+
+python-multipart

@@ -1,0 +1,14 @@
+body{
+    background:#0f172a;
+    color:white;
+}
+
+.card{
+    background:#1e293b;
+    border:none;
+    border-radius:12px;
+}
+
+h2{
+    font-weight:bold;
+}
