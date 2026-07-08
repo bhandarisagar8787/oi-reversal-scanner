@@ -1,7 +1,6 @@
-from app.supabase_client import supabase
+from app.database.supabase import db
 
-response = supabase.table("bars").select("*").limit(1).execute()
+response = db.table("bars").select("*").limit(1).execute()
 
+print("Connection OK")
 print(response.data)
-
-print("Connected Successfully")

@@ -25,3 +25,5 @@ python-dateutil
 pytz
 
 git+https://github.com/rongardF/tvdatafeed.git
+
+psycopg[binary]
