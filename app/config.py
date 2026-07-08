@@ -9,4 +9,6 @@ class Settings:
 
     SUPABASE_KEY = os.getenv("SUPABASE_KEY")
 
+    DATABASE_URL = os.getenv("DATABASE_URL")
+
 settings = Settings()

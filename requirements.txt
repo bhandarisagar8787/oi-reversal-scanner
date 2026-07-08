@@ -27,3 +27,10 @@ pytz
 git+https://github.com/rongardF/tvdatafeed.git
 
 psycopg[binary]
+
+sqlalchemy>=2.0
+
+fastapi
+uvicorn
+jinja2
+python-multipart
