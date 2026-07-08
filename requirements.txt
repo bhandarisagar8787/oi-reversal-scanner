@@ -1,0 +1,25 @@
+# Core
+pandas>=2.2.0
+numpy>=1.26.0
+
+# TradingView
+tvdatafeed
+
+# HTTP
+requests
+httpx
+
+# Supabase
+supabase
+python-dotenv
+
+# Dashboard/API (Future)
+fastapi
+uvicorn
+
+# Websocket
+websocket-client
+
+# Utilities
+python-dateutil
+pytz
